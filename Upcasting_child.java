@@ -16,5 +16,6 @@ public class Upcasting_child extends Upcasting_3102022 {
 	public void suv() {
 		// TODO Auto-generated method stub
 		System.out.println("Ford ecosport");
+		System.out.println("Ford figo");
 	}
 }
